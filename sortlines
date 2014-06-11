@@ -1,0 +1,2 @@
+#! /bin/bash
+sort intermediate.txt > sorted_words.txt
